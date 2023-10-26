@@ -362,6 +362,7 @@ img{
 
 .card:hover{
   transform: scale(1.1);
+  z-index: 99;
 }
 
 .icon{
@@ -389,10 +390,6 @@ img{
 
 .card{
   background-color: #ffffff;
-}
-
-.card:hover{
-z_endex: 99;
 }
 
 .card p{
