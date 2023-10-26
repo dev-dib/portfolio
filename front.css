@@ -391,6 +391,10 @@ img{
   background-color: #ffffff;
 }
 
+.card:hover{
+z_endex: 99;
+}
+
 .card p{
   color: #081b29;
   font-weight: 800;
